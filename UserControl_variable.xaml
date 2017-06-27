@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="BoyeoZoom.UserControl_variable"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BoyeoZoom"
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="120" FontFamily="Consolas" FontSize="13">
+    <Grid Width="auto" Height="30" Margin="0,7,0,7">
+        <StackPanel Orientation="Horizontal">
+            <Label Name="highlight" Foreground="Aqua" Content="*" Visibility="Hidden"/>
+            <Label Name="v2_name" Foreground="#FFFF9500"/>
+            <StackPanel Orientation="Horizontal" Name="v2_values" Width="auto">
+
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>
+

@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="BoyeoZoom.flowchart_usercontrol.UserControl_Iteration"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BoyeoZoom.flowchart_usercontrol"
+             mc:Ignorable="d" d:DesignWidth="190" Height="110"  >
+    <Grid>
+        <StackPanel x:Name="stack_iteration" Width="190" Height="110">
+            <TextBox x:Name="textBox_iteration1" FontFamily="Consolas" FontSize="13" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" MaxHeight="100" Height="40" Width="190" TextWrapping="Wrap" Text="Teadiox" VerticalAlignment="Center" Padding="10,5,10,5" BorderBrush="{x:Null}" CaretBrush="White" Foreground="White" SelectionBrush="#FFFA934B" TextAlignment="Center" Focusable="False" IsReadOnly="True">
+                <TextBox.Background>
+                    <ImageBrush ImageSource="/image/nemo1.png"/>
+                </TextBox.Background>
+            </TextBox>
+            <TextBox x:Name="textBox_iteration2" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  HorizontalAlignment="Center" MaxHeight="200" Height="70" Width="190" TextWrapping="Wrap" Text="" VerticalAlignment="Center" Padding="10,5,10,5" BorderBrush="{x:Null}" CaretBrush="White" Foreground="White" SelectionBrush="#FFFA934B" TextAlignment="Center" Focusable="False" IsReadOnly="True"  FontSize="13">
+                <TextBox.Background>
+                    <ImageBrush ImageSource="/image/nemo2.png"/>
+                </TextBox.Background>
+            </TextBox>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,78 @@
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\bin\Debug\ICSharpCode.AvalonEdit.pdb
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+\\Mac\Home\Downloads\AvalonEdit_4.3.1_Source\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+\\Mac\Home\Desktop\BoyeoZoom\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\Mac\Home\Desktop\BoyeoZoom\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\Mac\Home\Desktop\BoyeoZoom\bin\Debug\ICSharpCode.AvalonEdit.pdb
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+\\Mac\Home\Desktop\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\bin\Debug\ICSharpCode.AvalonEdit.pdb
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+\\Mac\Home\Downloads\BoyeoZoom\BoyeoZoom\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\bin\Debug\ICSharpCode.AvalonEdit.pdb
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\eumyo\OneDrive\문서\Visual Studio 2015\Projects\BoyeoZoom\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+\\Mac\Home\Desktop\BoyeoZoom11월4일\bin\Debug\ICSharpCode.AvalonEdit.xml
+\\Mac\Home\Desktop\BoyeoZoom11월4일\bin\Debug\ICSharpCode.AvalonEdit.dll
+\\Mac\Home\Desktop\BoyeoZoom11월4일\bin\Debug\ICSharpCode.AvalonEdit.pdb
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.cache
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit_MarkupCompile.lref
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\CompletionList.baml
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\CodeCompletion\InsightWindow.baml
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\Search\SearchPanel.baml
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\Search\DropDownButton.baml
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\TextEditor.baml
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\themes\generic.baml
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
+\\Mac\Home\Desktop\BoyeoZoom11월4일\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
